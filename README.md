@@ -18,8 +18,8 @@ https://github.com/lopeshyago/lopeshyago/blob/main/hl-banner-github.png?raw=true
 
 ## My Skills
 <div  align="center">
-<img width=50% align="center"  src=
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lopeshyago&layout=compact&theme=radical&border_color=400080&text_color=FFF></div>
+<img width=50% align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lopeshyago&layout=compact&theme=radical&border_color=400080&text_color=FFF" />
+</div>
 
 #### Main Stack:
 
