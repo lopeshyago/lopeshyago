@@ -34,7 +34,6 @@ https://github.com/lopeshyago/lopeshyago/blob/main/hl-banner-github.png?raw=true
 
 #### Secondary Stack:
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 
